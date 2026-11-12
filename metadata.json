@@ -1,0 +1,10 @@
+{
+  "name": "Remix DartVision Score \u0026 Accuracy Tracker",
+  "description": "Aplikasi pengiraan skor dart X01, analitik ketepatan latihan \u0026 pengesanan kamera Vision AI dengan storan tempatan.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
